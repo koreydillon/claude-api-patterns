@@ -1,5 +1,7 @@
 # claude-api-patterns
 
+[![CI](https://github.com/koreydillon/claude-api-patterns/actions/workflows/ci.yml/badge.svg)](https://github.com/koreydillon/claude-api-patterns/actions/workflows/ci.yml)
+
 Six runnable patterns for building production apps on the Anthropic API. Each example is self-contained, uses the latest `claude-opus-4-7` model, and demonstrates one capability end-to-end.
 
 ## What's in here
